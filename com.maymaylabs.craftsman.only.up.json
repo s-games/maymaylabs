@@ -1,0 +1,546 @@
+{
+   "info":"success",
+   "num":54,
+   "result":[
+      {
+         "id":1,
+         "judule":"Evil Nun",
+         "icone":"https://livemovies.club/mcworlbfixed/evil_nun_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/evil_nun_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":2,
+         "judule":"A Nightmare",
+         "icone":"https://livemovies.club/mcworlbfixed/a_nightmare_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/a_nightmare_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":3,
+         "judule":"Choose Your Terror",
+         "icone":"https://livemovies.club/mcworlbfixed/choose_your_terror_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/choose_your_terror_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":4,
+         "judule":"Dead Village Escape",
+         "icone":"https://livemovies.club/mcworlbfixed/dead_village_escape_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/dead_village_escape_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":5,
+         "judule":"Death Mansion",
+         "icone":"https://livemovies.club/mcworlbfixed/death_mansion_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/death_mansion_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":6,
+         "judule":"Escape Annie",
+         "icone":"https://livemovies.club/mcworlbfixed/escape_annie_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/escape_annie_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":7,
+         "judule":"Fear",
+         "icone":"https://livemovies.club/mcworlbfixed/fear_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/fear_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":8,
+         "judule":"Friday The 13th",
+         "icone":"https://livemovies.club/mcworlbfixed/friday_the_13th_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/friday_the_13th_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":9,
+         "judule":"Hello Neighbor",
+         "icone":"https://livemovies.club/mcworlbfixed/hello_neighbor_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/hello_neighbor_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":10,
+         "judule":"Herobrine Terror",
+         "icone":"https://livemovies.club/mcworlbfixed/herobrine_terror_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/herobrine_terror_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":11,
+         "judule":"The Home",
+         "icone":"https://livemovies.club/mcworlbfixed/home_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/home_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":12,
+         "judule":"Late At Night",
+         "icone":"https://livemovies.club/mcworlbfixed/late_at_night_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/late_at_night_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":13,
+         "judule":"Night Of Terror",
+         "icone":"https://livemovies.club/mcworlbfixed/night_of_terror_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/night_of_terror_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":14,
+         "judule":"Out Last The Chase",
+         "icone":"https://livemovies.club/mcworlbfixed/out_last_the_chase_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/out_last_the_chase_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":15,
+         "judule":"The Asylum",
+         "icone":"https://livemovies.club/mcworlbfixed/the_asylum_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_asylum_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":16,
+         "judule":"The Awakening",
+         "icone":"https://livemovies.club/mcworlbfixed/the_awakening_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_awakening_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":17,
+         "judule":"The Cursed Neighbor",
+         "icone":"https://livemovies.club/mcworlbfixed/the_cursed_neighbor_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_cursed_neighbor_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":18,
+         "judule":"The Last Patient",
+         "icone":"https://livemovies.club/mcworlbfixed/the_last_patient_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_last_patient_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":19,
+         "judule":"The Nightmare",
+         "icone":"https://livemovies.club/mcworlbfixed/the_nightmare_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_nightmare_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":20,
+         "judule":"The Nun",
+         "icone":"https://livemovies.club/mcworlbfixed/the_nun_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_nun_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":21,
+         "judule":"The Saw",
+         "icone":"https://livemovies.club/mcworlbfixed/the_saw_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_saw_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":22,
+         "judule":"The Search",
+         "icone":"https://livemovies.club/mcworlbfixed/the_search_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_search_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":23,
+         "judule":"The Sewer",
+         "icone":"https://livemovies.club/mcworlbfixed/the_sewer_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/the_sewer_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":24,
+         "judule":"Hospital 1",
+         "icone":"https://livemovies.club/mcworlbfixed/hospital_1_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/hospital_1_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":25,
+         "judule":"Hospital 2",
+         "icone":"https://livemovies.club/mcworlbfixed/hospital_2_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/hospital_2_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":26,
+         "judule":"Slendrina Cellar 1",
+         "icone":"https://livemovies.club/mcworlbfixed/slendrina_cellar_1_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/slendrina_cellar_1_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":27,
+         "judule":"Slendrina Cellar 2",
+         "icone":"https://livemovies.club/mcworlbfixed/slendrina_cellar_2_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/slendrina_cellar_2_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":28,
+         "judule":"Slendrina Cellar 3",
+         "icone":"https://livemovies.club/mcworlbfixed/slendrina_cellar_3_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/slendrina_cellar_3_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":29,
+         "judule":"FNAF SL Map Chapter 1",
+         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_1.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":30,
+         "judule":"FNAF SL Map Chapter 2",
+         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_2.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":31,
+         "judule":"FNAF SL Map Chapter 3",
+         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_3.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":32,
+         "judule":"FNAF SL Map Chapter 4",
+         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_4.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_4.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":33,
+         "judule":"Bendy Game Chapter 1",
+         "icone":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_1_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_1_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":34,
+         "judule":"Bendy Game Chapter 2",
+         "icone":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_2_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_2_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":35,
+         "judule":"Bendy Game Chapter 3",
+         "icone":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_3_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_3_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":36,
+         "judule":"Bendy Game Chapter 4",
+         "icone":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_4_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/bendy_game_chapter_4_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":37,
+         "judule":"Mcdonald Mystery 1",
+         "icone":"https://livemovies.club/mcworlbfixed/mcdonald_mystery_1_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/mcdonald_mystery_1_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":38,
+         "judule":"Mcdonald Mystery 2",
+         "icone":"https://livemovies.club/mcworlbfixed/mcdonald_mystery_2_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/mcdonald_mystery_2_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":39,
+         "judule":"Mcdonald Mystery 3",
+         "icone":"https://livemovies.club/mcworlbfixed/mcdonald_mystery_3_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/mcdonald_mystery_3_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":40,
+         "judule":"One Night At Frankie 1",
+         "icone":"https://livemovies.club/mcworlbfixed/one_night_at_frankie_1_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/one_night_at_frankie_1_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":41,
+         "judule":"One Night At Frankie 2",
+         "icone":"https://livemovies.club/mcworlbfixed/one_night_at_frankie_2_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/one_night_at_frankie_2_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":42,
+         "judule":"One Night At Frankie 3",
+         "icone":"https://livemovies.club/mcworlbfixed/one_night_at_frankie_3_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/one_night_at_frankie_3_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":43,
+         "judule":"Hello Neighbor 1",
+         "icone":"https://livemovies.club/mcworlbfixed/hello_neighbor_1_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/hello_neighbor_1_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":44,
+         "judule":"Hello Neighbor 2",
+         "icone":"https://livemovies.club/mcworlbfixed/hello_neighbor_2_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/hello_neighbor_2_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":45,
+         "judule":"Dummy 1",
+         "icone":"https://livemovies.club/mcworlbfixed/dummy_1_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/dummy_1_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":46,
+         "judule":"Dummy 2",
+         "icone":"https://livemovies.club/mcworlbfixed/dummy_2_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/dummy_2_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":47,
+         "judule":"Dummy 3",
+         "icone":"https://livemovies.club/mcworlbfixed/dummy_3_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/dummy_3_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":48,
+         "judule":"Twelve Eve Universe 1 The Beginning",
+         "icone":"https://livemovies.club/mcworlbfixed/twelve_eve_universe_1_the_beginning_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/twelve_eve_universe_1_the_beginning_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":49,
+         "judule":"Twelve Eve Universe 2 Red Eyes",
+         "icone":"https://livemovies.club/mcworlbfixed/twelve_eve_universe_2_red_eyes_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/twelve_eve_universe_2_red_eyes_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":50,
+         "judule":"Baldi Basics Bedrock Edition",
+         "icone":"https://livemovies.club/mcworlbfixed/baldi_basics_bedrock_edition_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/baldi_basics_bedrock_edition_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":51,
+         "judule":"Baldi Basics Field Trip Map Minigame Adventure ",
+         "icone":"https://livemovies.club/mcworlbfixed/baldi_basics_field_trip_map_minigame_adventure_.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/baldi_basics_field_trip_map_minigame_adventure_.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":52,
+         "judule":"Baldi Basics In Find The Button Minigame",
+         "icone":"https://livemovies.club/mcworlbfixed/baldi_basics_in_find_the_button_horror_map_minigame.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/baldi_basics_in_find_the_button_horror_map_minigame.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":53,
+         "judule":"Granny Bedrock Edition",
+         "icone":"https://livemovies.club/mcworlbfixed/granny_bedrock_edition_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/granny_bedrock_edition_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":54,
+         "judule":"Granny",
+         "icone":"https://livemovies.club/mcworlbfixed/granny_horror_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/granny_horror_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      }
+   ]
+}
