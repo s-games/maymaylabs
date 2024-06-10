@@ -1,0 +1,66 @@
+{
+   "info":"success",
+   "num":8,
+   "result":[
+      {
+         "id":1,
+         "judule":"One Block",
+         "icone":"https://livemovies.club/mcworlbfixed/mcpe_in_one_block_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/mcpe_in_one_block_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":6,
+         "judule":"Sky Layer Survival Skyblock",
+         "icone":"https://livemovies.club/mcworlbfixed/sky_layer_survival_skyblock_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/sky_layer_survival_skyblock_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":7,
+         "judule":"Skyblock Bedrock Edition",
+         "icone":"https://livemovies.club/mcworlbfixed/skyblock_bedrock_edition_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/skyblock_bedrock_edition_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      },
+      {
+         "id":26,
+         "judule":"Extreme Skyblock Map",
+         "icone":"https://livemovies.club/mcworlbfixed/extreme_skyblock_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/extreme_skyblock_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":51,
+         "judule":"Mega Skyblock Map",
+         "icone":"https://livemovies.club/mcworlbfixed/mega_skyblock_map.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/mega_skyblock_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine"
+      },
+      {
+         "id":8,
+         "judule":"Skycubes Summer Update",
+         "icone":"https://livemovies.club/mcworlbfixed/skycubes_summer_update.webp",
+         "file_url":"https://livemovies.club/mcworlbfixed/skycubes_summer_update.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":"deskripsine."
+      }
+   ]
+}
