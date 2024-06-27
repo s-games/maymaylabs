@@ -23,16 +23,6 @@
          "deskripsine":"deskripsine"
       },
       {
-         "id":3,
-         "judule":"Among Us Map",
-         "icone":"https://livemovies.club/mcworlbfixed/among_us_map.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/among_us_map.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
          "id":11,
          "judule":"Bikini Bottom Spongebob Map",
          "icone":"https://livemovies.club/mcworlbfixed/bikini_bottom_spongebob_map.webp",
@@ -83,80 +73,10 @@
          "deskripsine":"deskripsine"
       },
       {
-         "id":27,
-         "judule":"Fear Horror Map",
-         "icone":"https://livemovies.club/mcworlbfixed/fear_horror_map.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/fear_horror_map.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
-         "id":28,
-         "judule":"Fnaf Sl Map Chapter 1",
-         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_1.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_1.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
-         "id":29,
-         "judule":"Fnaf Sl Map Chapter 2",
-         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_2.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_2.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
-         "id":30,
-         "judule":"Fnaf Sl Map Chapter 3",
-         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_3.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_3.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
-         "id":31,
-         "judule":"Fnaf Sl Map Chapter 4",
-         "icone":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_4.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/fnaf_sl_map_chapter_4.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
-         "id":35,
-         "judule":"Granny Horror Map",
-         "icone":"https://livemovies.club/mcworlbfixed/granny_horror_map.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/granny_horror_map.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
          "id":40,
          "judule":"Hillside Mansion Map",
          "icone":"https://livemovies.club/mcworlbfixed/hillside_mansion_map.webp",
          "file_url":"https://livemovies.club/mcworlbfixed/hillside_mansion_map.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
-         "id":44,
-         "judule":"Late At Night Horror Map",
-         "icone":"https://livemovies.club/mcworlbfixed/late_at_night_horror_map.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/late_at_night_horror_map.zip",
          "typeMCPE":"typeMCPE",
          "html_file":"html_file",
          "extension":"mcworlb",
@@ -207,16 +127,6 @@
          "judule":"Million Spectacular Modern Mansion Map",
          "icone":"https://livemovies.club/mcworlbfixed/million_spectacular_modern_mansion_map.webp",
          "file_url":"https://livemovies.club/mcworlbfixed/million_spectacular_modern_mansion_map.zip",
-         "typeMCPE":"typeMCPE",
-         "html_file":"html_file",
-         "extension":"mcworlb",
-         "deskripsine":"deskripsine"
-      },
-      {
-         "id":53,
-         "judule":"Minecraft Vs Zombies Map",
-         "icone":"https://livemovies.club/mcworlbfixed/minecraft_vs_zombies_map.webp",
-         "file_url":"https://livemovies.club/mcworlbfixed/minecraft_vs_zombies_map.zip",
          "typeMCPE":"typeMCPE",
          "html_file":"html_file",
          "extension":"mcworlb",
