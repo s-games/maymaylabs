@@ -1,0 +1,1416 @@
+{
+   "info":"success",
+   "num":888,
+   "result":[
+      {
+         "id":212,
+         "judule":"Morph World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_morph_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_morph_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":8,
+         "judule":"Brainrot Evolution",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/brainrot_evolution.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/brainrot_evolution.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":7,
+         "judule":"Apocalypse Zombie",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/apocalypse_zombie.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/apocalypse_zombie.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":9,
+         "judule":"Build A Plane",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/build_a_plane.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/build_a_plane.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":10,
+         "judule":"Camping Adventure",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/camping_adventure.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/camping_adventure.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":11,
+         "judule":"Dino World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/dino_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/dino_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":6,
+         "judule":"Anomali World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/anomali_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/anomali_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":12,
+         "judule":"Dragon Slayer",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/dragon_slayer.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/dragon_slayer.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":13,
+         "judule":"Dragon World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/dragon_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/dragon_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":14,
+         "judule":"Elemental Swords Adventure",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/elemental_swords_adventure.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/elemental_swords_adventure.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":15,
+         "judule":"Farm Lands",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/farm_lands.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/farm_lands.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":16,
+         "judule":"Food Simulator",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/food_simulator.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/food_simulator.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":17,
+         "judule":"Furniture World Furnicraft",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/furniture_world_furnicraft.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/furniture_world_furnicraft.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":18,
+         "judule":"Grow A Garden",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/grow_a_garden.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/grow_a_garden.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":74,
+         "judule":"Italian Brainrot World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/italian_brainrot_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/italian_brainrot_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":76,
+         "judule":"Lamborghini World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/lamborghini_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/lamborghini_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":121,
+         "judule":"Mutant Hunter",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/mutant_hunter.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/mutant_hunter.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":122,
+         "judule":"Nether World Survival",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/nether_world_survival.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/nether_world_survival.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":125,
+         "judule":"Pocket Pets",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/pocket_pets.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/pocket_pets.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":126,
+         "judule":"Pokecraft Adventure",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/pokecraft_adventure.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/pokecraft_adventure.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":79,
+         "judule":"Bikini Bottom Spongebob",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_bikini_bottom_spongebob.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_bikini_bottom_spongebob.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":80,
+         "judule":"Httyd",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_httyd.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_httyd.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":81,
+         "judule":"Minecraft Vs Zombies",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_minecraft_vs_zombies.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_minecraft_vs_zombies.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":82,
+         "judule":"Morph Adventure",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_morph_adventure.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_morph_adventure.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":83,
+         "judule":"Prison Escape 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_escape_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_escape_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":84,
+         "judule":"Prison Escape 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_escape_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_escape_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":85,
+         "judule":"Prison For Life",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_for_life.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_for_life.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":86,
+         "judule":"Prison Life",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_life.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_prison_life.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":87,
+         "judule":"Robots Adventure",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_robots_adventure.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_robots_adventure.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":88,
+         "judule":"Safari Animal",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_safari_animal.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_safari_animal.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":89,
+         "judule":"Scp Foundation Universe",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_scp_foundation_universe.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_scp_foundation_universe.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":90,
+         "judule":"Scp Psx",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_scp_psx.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_scp_psx.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":91,
+         "judule":"Swords Adventure",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_swords_adventure.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_swords_adventure.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":92,
+         "judule":"The Temple Of Notch",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_the_temple_of_notch.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_the_temple_of_notch.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":93,
+         "judule":"Tnt World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_tnt_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_tnt_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":94,
+         "judule":"Working Phone",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_working_phone.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_working_phone.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":95,
+         "judule":"Zombies 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":96,
+         "judule":"Zombies 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":97,
+         "judule":"Zombies 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":98,
+         "judule":"Zombies 4",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_4.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_4.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":99,
+         "judule":"Zombies 5",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_5.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_5.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":100,
+         "judule":"Zombies 6",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_6.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_6.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":101,
+         "judule":"Zombies 7",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_7.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zombies_7.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":102,
+         "judule":"Zoo Animal",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zoo_animal.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_zoo_animal.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":123,
+         "judule":"Pk Disney Park",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_disney_park.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_disney_park.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":124,
+         "judule":"Pk Theme Park",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_theme_park.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PK_theme_park.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":104,
+         "judule":"Extreme Safe House Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_extreme_safe_house_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_extreme_safe_house_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":105,
+         "judule":"Hillside Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_hillside_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_hillside_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":106,
+         "judule":"Luxurious Modern Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_luxurious_modern_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_luxurious_modern_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":107,
+         "judule":"Maive Mansion House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_maive_mansion_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_maive_mansion_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":108,
+         "judule":"Million Spectacular Modern Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_million_spectacular_modern_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_million_spectacular_modern_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":109,
+         "judule":"Modern House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":110,
+         "judule":"Modern Redstone Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_redstone_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_redstone_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":111,
+         "judule":"Modern Seaside Mansion House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_seaside_mansion_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_seaside_mansion_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":112,
+         "judule":"Modern Super Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_super_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_modern_super_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":113,
+         "judule":"Paradise Island",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_paradise_island.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_paradise_island.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":114,
+         "judule":"Pink House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":115,
+         "judule":"Pink Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_pink_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":116,
+         "judule":"Redstone Woodland Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_redstone_woodland_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_redstone_woodland_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":117,
+         "judule":"Special Modern Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_special_modern_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_special_modern_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":118,
+         "judule":"Super Smart Swampy Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_super_smart_swampy_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_super_smart_swampy_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":119,
+         "judule":"Tony Starks Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_tony_starks_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_tony_starks_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":120,
+         "judule":"Ultra House Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_ultra_house_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_ultra_house_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":78,
+         "judule":"Mansion Island",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/mansion_island.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/mansion_island.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":103,
+         "judule":"Modern Farm House",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/modern_farm_house.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/modern_farm_house.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":0,
+         "judule":"(Survival) Raft Survival Block",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_raft_survival_block.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_raft_survival_block.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":1,
+         "judule":"(Survival) Sky Layer Survival Skyblock",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_sky_layer_survival_skyblock.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_sky_layer_survival_skyblock.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":2,
+         "judule":"(Survival) Skyblock Bedrock Edition",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_skyblock_bedrock_edition.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_skyblock_bedrock_edition.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":3,
+         "judule":"(Survival) Skycubes Summer",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_skycubes_summer.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_skycubes_summer.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":4,
+         "judule":"(Survival) The Sky Cube",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_the_sky_cube.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_the_sky_cube.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":132,
+         "judule":"(Survival) Ct Raft Survival",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_ct_raft_survival.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_ct_raft_survival.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":133,
+         "judule":"(Survival) Custom Raft Survival Ckleow",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_custom_raft_survival_ckleow.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_custom_raft_survival_ckleow.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":134,
+         "judule":"(Survival) Extreme Skyblock",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_extreme_skyblock.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_extreme_skyblock.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":135,
+         "judule":"(Survival) Mcpe In One Block",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_mcpe_in_one_block.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_mcpe_in_one_block.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":136,
+         "judule":"(Survival) Mega Skyblock",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_mega_skyblock.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_mega_skyblock.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":137,
+         "judule":"(Survival) New Skyblock Survival",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_new_skyblock_survival.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_new_skyblock_survival.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":138,
+         "judule":"(Survival) Pixels Skyblock",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_pixels_skyblock.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_pixels_skyblock.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":139,
+         "judule":"(Survival) Raft Survival",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_raft_survival.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/SV_raft_survival.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":19,
+         "judule":"(Horror) A Nightmare",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_a_nightmare.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_a_nightmare.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":20,
+         "judule":"(Horror) Baldi Basics Bedrock Edition",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_bedrock_edition.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_bedrock_edition.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":21,
+         "judule":"(Horror) Baldi Basics In Find The Button Minigame",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_in_find_the_button_minigame.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_baldi_basics_in_find_the_button_minigame.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":22,
+         "judule":"(Horror) Bendy Game Chapter 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":23,
+         "judule":"(Horror) Bendy Game Chapter 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":24,
+         "judule":"(Horror) Bendy Game Chapter 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":25,
+         "judule":"(Horror) Bendy Game Chapter 4",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_4.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_bendy_game_chapter_4.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":26,
+         "judule":"(Horror) Choose Your Terror",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_choose_your_terror.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_choose_your_terror.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":27,
+         "judule":"(Horror) Death Mansion",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_death_mansion.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_death_mansion.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":28,
+         "judule":"(Horror) Dummy 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":29,
+         "judule":"(Horror) Dummy 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":30,
+         "judule":"(Horror) Dummy 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_dummy_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":31,
+         "judule":"(Horror) Evil Nun",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_evil_nun.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_evil_nun.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":32,
+         "judule":"(Horror) Fear",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fear.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fear.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":33,
+         "judule":"(Horror) Fnaf Sl Map Chapter 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":34,
+         "judule":"(Horror) Fnaf Sl Map Chapter 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":35,
+         "judule":"(Horror) Fnaf Sl Map Chapter 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":36,
+         "judule":"(Horror) Fnaf Sl Map Chapter 4",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_4.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_fnaf_sl_map_chapter_4.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":37,
+         "judule":"(Horror) Friday The 13Th",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_friday_the_13th.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_friday_the_13th.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":38,
+         "judule":"(Horror) Granny",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":39,
+         "judule":"(Horror) Granny Bedrock Edition",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny_bedrock_edition.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_granny_bedrock_edition.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":40,
+         "judule":"(Horror) Hello Neighbor 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":41,
+         "judule":"(Horror) Hello Neighbor 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hello_neighbor_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":42,
+         "judule":"(Horror) Herobrine Terror",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_herobrine_terror.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_herobrine_terror.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":43,
+         "judule":"(Horror) Home",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_home.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_home.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":44,
+         "judule":"(Horror) Hospital 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":45,
+         "judule":"(Horror) Hospital 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_hospital_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":46,
+         "judule":"(Horror) Late At Night",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_late_at_night.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_late_at_night.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":47,
+         "judule":"(Horror) Mcdonald Mystery 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":48,
+         "judule":"(Horror) Mcdonald Mystery 2 Map",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_2_map.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_2_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":49,
+         "judule":"(Horror) Mcdonald Mystery 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_mcdonald_mystery_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":50,
+         "judule":"(Horror) Murder Mystery Mansion Map",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_murder_mystery_mansion_map.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_murder_mystery_mansion_map.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":51,
+         "judule":"(Horror) Night Of Terror",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_night_of_terror.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_night_of_terror.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":52,
+         "judule":"(Horror) One Night At Frankie 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":53,
+         "judule":"(Horror) One Night At Frankie 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":54,
+         "judule":"(Horror) One Night At Frankie 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_one_night_at_frankie_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":55,
+         "judule":"(Horror) Siren Head",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_siren_head.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_siren_head.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":56,
+         "judule":"(Horror) Slendrina Cellar 1 Horror Dv",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_1_horror_dv.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_1_horror_dv.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":57,
+         "judule":"(Horror) Slendrina Cellar 2 Horror Dv",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_2_horror_dv.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_2_horror_dv.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":58,
+         "judule":"(Horror) Slendrina Cellar 3 Horror Dv",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_3_horror_dv.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_cellar_3_horror_dv.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":59,
+         "judule":"(Horror) Slendrina The Cellar 1",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_1.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_1.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":60,
+         "judule":"(Horror) Slendrina The Cellar 2",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_2.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_2.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":61,
+         "judule":"(Horror) Slendrina The Cellar 3",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_3.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_slendrina_the_cellar_3.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":62,
+         "judule":"(Horror) Super Mega Dropper",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_super_mega_dropper.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_super_mega_dropper.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":63,
+         "judule":"(Horror) The Asylum",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_asylum.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_asylum.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":64,
+         "judule":"(Horror) The Awakening",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_awakening.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_awakening.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":65,
+         "judule":"(Horror) The Last Patient",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_last_patient.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_last_patient.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":66,
+         "judule":"(Horror) The Nightmare",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_nightmare.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_nightmare.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":67,
+         "judule":"(Horror) The Nun",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_nun.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_nun.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":68,
+         "judule":"(Horror) The Search",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_search.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_search.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":69,
+         "judule":"(Horror) The Unknown",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_unknown.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/HR_the_unknown.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":127,
+         "judule":"Parkour Grid",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_grid.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_grid.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":128,
+         "judule":"Parkour Paradise",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_paradise.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_paradise.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":129,
+         "judule":"Parkour Stripes",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_stripes.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_stripes.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":130,
+         "judule":"Parkour Warrior",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_warrior.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_parkour_warrior.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":131,
+         "judule":"The King Of Dropper Parkour",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_the_king_of_dropper_parkour.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/PRK_the_king_of_dropper_parkour.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":70,
+         "judule":"(ID) Kuntilanak Indonesia",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_kuntilanak_indonesia.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_kuntilanak_indonesia.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":71,
+         "judule":"(ID) Malam Jumat Kliwon Indonesia",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_malam_jumat_kliwon_indonesia.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_malam_jumat_kliwon_indonesia.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":72,
+         "judule":"(ID) Tuyul Hunter Indonesia",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_tuyul_hunter_indonesia.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_tuyul_hunter_indonesia.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":73,
+         "judule":"(ID) Indonesian Vehicles World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/indonesian_vehicles_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/indonesian_vehicles_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":74,
+         "judule":"(ID) Nuansa Indonesia",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_nuansa_indonesia.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/id_nuansa_indonesia.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":211,
+         "judule":"Aquarium World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_aquarium_world.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MIX_aquarium_world.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      },
+      {
+         "id":213,
+         "judule":"Blue Topia World",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_blue_topia.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcworlb1.20/main/MS_blue_topia.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcworlb",
+         "deskripsine":""
+      }
+   ]
+}
